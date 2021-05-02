@@ -1,0 +1,28 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%; ;
+}
+h1{
+   font-family: sans-serif;
+   text-align: center;
+   color: black;
+   font-size: 50px;
+}
+.but{
+ background-color:gainsboro;
+ border: none;
+   border-radius: 20px;
+ color:black;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+}
+.a{
+   margin-top: -300px;
+   margin-left: -90px;
+}
